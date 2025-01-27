@@ -1,0 +1,4 @@
+framework module PayologyCheckCaptureSDK {
+  header "PayologyCheckCaptureSDK-Swift.h"
+  requires objc
+}
